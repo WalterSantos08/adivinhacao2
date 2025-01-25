@@ -1,4 +1,4 @@
-# Jogo de Adivinhação em Java 🎢
+# Jogo de Adivinhação em Java (versão 2) 🎢
 
 Este é um jogo aprimorado de adivinhação de números, onde o jogador tenta adivinhar um número aleatório gerado pelo computador, com novos recursos para aumentar a diversão.
 
