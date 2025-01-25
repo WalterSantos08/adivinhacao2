@@ -54,10 +54,6 @@ O código é composto por:
 - Implementar opção de salvar o ranking em um arquivo externo.
 - Personalizar mensagens de acordo com o nível de dificuldade.
 
-## 📝 Licença
-
-Este projeto é de código aberto. Sinta-se à vontade para usar, modificar e compartilhar.
-
 ---
 Divirta-se jogando! 😄
 
